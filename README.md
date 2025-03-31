@@ -1,6 +1,6 @@
 #SMS Bomber for Iran (Termux)
 ⚠ Disclaimer: This script is intended for educational and security testing purposes only. The developer is not responsible for any misuse
-# install in termux:
+# instalation in termux:
 just copy and paste in terminal termux 😘😘😘😘😘😘😁😁😁
 
 1- pkg update && pkg upgrade -y 
