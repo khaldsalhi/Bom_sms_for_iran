@@ -3,8 +3,12 @@
 # install in termux:
 just copy and paste in terminal termux 😘😘😘😘😘😘😁😁😁
 
-1- pkg update && pkg upgrade -y  
+1- pkg update && pkg upgrade -y 
+
 2- git clone https://github.com/khaldsalhi/Bom_sms_for_iran.git
+
 3- cd Bom_sms_for_iran
+
 4- pkg install php   
+
 5- php startsb002.php
