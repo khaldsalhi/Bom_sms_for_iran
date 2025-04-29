@@ -18,3 +18,5 @@ The script work just for iran
 6- Enter number;09147485606
 
 7-enter repeat bomb=1000
+
+# آپدیت شده سورس کد با بهترین api 
