@@ -14,5 +14,7 @@ The script work just for iran
 4- pkg install php   
 
 5- php startsb002.php
-6- Enter number;
+
+6- Enter number;09147485606
+
 7-enter repeat bomb=1000
