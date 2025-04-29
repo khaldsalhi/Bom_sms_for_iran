@@ -1,4 +1,4 @@
-# SMS Bomber for Iran (Termux)
+# SMS Bomber for Iran (Termux) updated 
 version 5.7
 ⚠ Disclaimer: This script is intended for educational and security testing purposes only. The developer is not responsible for any misuse
 # instalation in termux:
