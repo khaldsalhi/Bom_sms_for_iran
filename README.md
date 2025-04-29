@@ -19,4 +19,7 @@ The script work just for iran
 
 7-enter repeat bomb=1000
 
-# آپدیت شده سورس کد با بهترین api 
+# آپدیت شده سورس کد با بهترین api 100
+
+
+
